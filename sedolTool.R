@@ -6,7 +6,7 @@ library('roxygen2')
 #'@param inputString the string to validate
 #'@return TRUE/FALSE value
 #'
-#'@author K Falangis
+#'@author themellion
 IsValidSEDOL <- function(inputString) {
   
   # check if argument is missing
